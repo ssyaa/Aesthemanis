@@ -1,0 +1,19 @@
+body {
+    background-color: hotpink;
+}
+
+.container-navbar {
+    background-color: white;
+}
+
+.ul-navbar {
+    background-color: cyan;
+    width: 500px;
+    height: 100px;
+}
+
+.li-navbar {
+    border: 1px solid red;
+    list-style-type: none;
+    padding: 20px;
+}
